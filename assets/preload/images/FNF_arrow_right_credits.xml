@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_arrow_right_credits.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow right credits0000" x="25" y="25" width="186" height="142" frameX="0" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0001" x="25" y="25" width="186" height="142" frameX="0" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0002" x="25" y="25" width="186" height="142" frameX="0" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0003" x="25" y="25" width="186" height="142" frameX="-16" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0004" x="25" y="25" width="186" height="142" frameX="-27" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0005" x="25" y="25" width="186" height="142" frameX="-32" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0006" x="25" y="25" width="186" height="142" frameX="-34" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0007" x="25" y="25" width="186" height="142" frameX="-34" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0008" x="25" y="25" width="186" height="142" frameX="-34" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0009" x="25" y="25" width="186" height="142" frameX="-34" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0010" x="25" y="25" width="186" height="142" frameX="-34" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0011" x="25" y="25" width="186" height="142" frameX="-17" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0012" x="25" y="25" width="186" height="142" frameX="-7" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0013" x="25" y="25" width="186" height="142" frameX="-2" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0014" x="25" y="25" width="186" height="142" frameX="0" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0015" x="25" y="25" width="186" height="142" frameX="0" frameY="0" frameWidth="220" frameHeight="142"/>
+	<SubTexture name="arrow right credits0016" x="25" y="25" width="186" height="142" frameX="0" frameY="0" frameWidth="220" frameHeight="142"/>
+</TextureAtlas>
